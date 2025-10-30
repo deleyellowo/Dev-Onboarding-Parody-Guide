@@ -1,0 +1,2 @@
+# Ideas
+Configure dependency caching to speed up pipeline execution
